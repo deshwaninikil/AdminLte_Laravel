@@ -4,10 +4,10 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
-            <div class="card">
-                <div class="card-header">{{ __('Register') }}</div>
+            <div class="card" style="background-color:#A78BFA">
+              <center> <strong> <div class="card-header">{{ __('Register') }}</div></strong></center>
 
-                <div class="card-body">
+                <div class="card-body btn btn">
                     <form method="POST" action="{{ route('register') }}">
                         @csrf
 

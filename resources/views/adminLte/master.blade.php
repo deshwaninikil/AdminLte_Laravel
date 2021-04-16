@@ -74,11 +74,11 @@
           <img src="dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Alexander Pierce</a>
+          <a href="#" class="d-block">Anjali Deshwani</a>
         </div>
       </div>
 
-      <!-- SidebarSearch Form -->
+      <!-- SidebarSearch Form
       <div class="form-inline">
         <div class="input-group" data-widget="sidebar-search">
           <input class="form-control form-control-sidebar" type="search" placeholder="Search" aria-label="Search">
@@ -91,15 +91,15 @@
       </div>
 
       <!-- Sidebar Menu -->
-      <nav class="mt-2">
+      <!-- <nav class="mt-2">
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
-          <li class="nav-item menu-open">
+          <!-- <li class="nav-item menu-open">
             <a href="#" class="nav-link active">
               <i class="nav-icon fas fa-tachometer-alt"></i>
-              <p>
-                Dashboard
+              <p> -->
+                <!-- Dashboard
                 <i class="right fas fa-angle-left"></i>
               </p>
             </a>
@@ -108,8 +108,8 @@
                 <a href="./index.html" class="nav-link active">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Dashboard v1</p>
-                </a>
-              </li>
+                </a> -->
+              <!-- </li>
               <li class="nav-item">
                 <a href="./index2.html" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
@@ -123,8 +123,8 @@
                 </a>
               </li>
             </ul>
-          </li>
-          <li class="nav-item">
+          </li> -->
+          <!-- <li class="nav-item">
             <a href="pages/widgets.html" class="nav-link">
               <i class="nav-icon fas fa-th"></i>
               <p>
@@ -155,8 +155,8 @@
                   <p>Top Navigation + Sidebar</p>
                 </a>
               </li>
-              <li class="nav-item">
-                <a href="pages/layout/boxed.html" class="nav-link">
+              <li class="nav-item"> -->
+                <!-- <a href="pages/layout/boxed.html" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Boxed</p>
                 </a>
@@ -206,8 +206,8 @@
                 <a href="pages/charts/chartjs.html" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>ChartJS</p>
-                </a>
-              </li>
+                </a> -->
+              <!-- </li>
               <li class="nav-item">
                 <a href="pages/charts/flot.html" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
@@ -350,8 +350,8 @@
                 </a>
               </li>
             </ul>
-          </li>
-          <li class="nav-header">EXAMPLES</li>
+          </li> -->
+          <!-- <li class="nav-header">EXAMPLES</li>
           <li class="nav-item">
             <a href="pages/calendar.html" class="nav-link">
               <i class="nav-icon far fa-calendar-alt"></i>
@@ -490,7 +490,7 @@
                 <a href="#" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>
-                    Login & Register v1
+                    <!-- Login & Register v1
                     <i class="fas fa-angle-left right"></i>
                   </p>
                 </a>
@@ -505,31 +505,31 @@
                     <a href="pages/examples/register.html" class="nav-link">
                       <i class="far fa-circle nav-icon"></i>
                       <p>Register v1</p>
-                    </a>
+                    </a> -->
                   </li>
                   <li class="nav-item">
                     <a href="pages/examples/forgot-password.html" class="nav-link">
                       <i class="far fa-circle nav-icon"></i>
-                      <p>Forgot Password v1</p>
+                      <p>Forgot Password </p>
                     </a>
                   </li>
                   <li class="nav-item">
                     <a href="pages/examples/recover-password.html" class="nav-link">
                       <i class="far fa-circle nav-icon"></i>
-                      <p>Recover Password v1</p>
+                      <p>Profile </p>
                     </a>
                   </li>
                 </ul>
               </li>
-              <li class="nav-item">
+              <!-- <li class="nav-item">
                 <a href="#" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>
                     Login & Register v2
                     <i class="fas fa-angle-left right"></i>
                   </p>
-                </a>
-                <ul class="nav nav-treeview">
+                </a> -->
+                <!-- <ul class="nav nav-treeview">
                   <li class="nav-item">
                     <a href="pages/examples/login-v2.html" class="nav-link">
                       <i class="far fa-circle nav-icon"></i>
@@ -561,8 +561,8 @@
                   <i class="far fa-circle nav-icon"></i>
                   <p>Lockscreen</p>
                 </a>
-              </li>
-              <li class="nav-item">
+              </li> -->
+              <!-- <li class="nav-item">
                 <a href="pages/examples/legacy-user-menu.html" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Legacy User Menu</p>
@@ -717,9 +717,9 @@
           <li class="nav-item">
             <a href="#" class="nav-link">
               <i class="nav-icon far fa-circle text-warning"></i>
-              <p>Warning</p>
-            </a>
-          </li>
+              <p>Warning</p> -->
+            </a> -->
+          <!-- </li>
           <li class="nav-item">
             <a href="#" class="nav-link">
               <i class="nav-icon far fa-circle text-info"></i>
@@ -729,9 +729,9 @@
         </ul>
       </nav>
       <!-- /.sidebar-menu -->
-    </div>
+    </div> -->
     <!-- /.sidebar -->
-  </aside>
+  </aside> --> -->
 
   @yield('content')
 
